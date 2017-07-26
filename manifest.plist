@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/coldmachine/tagc/raw/master/tagc.ipa</string>
+					<string>https://github.com/coldmachine/tc/raw/master/tc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/coldmachine/tagc/master/proxima_57.png</string>
+					<string>https://raw.githubusercontent.com/coldmachine/tc/master/proxima_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/coldmachine/tagc/master/proxima_512.png</string>
+					<string>https://raw.githubusercontent.com/coldmachine/tc/master/proxima_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Connfa!</string>
+				<string>tc</string>
 			</dict>
 		</dict>
 	</array>
